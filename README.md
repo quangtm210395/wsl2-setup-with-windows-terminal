@@ -10,6 +10,7 @@ Về cơ bản, chúng ta muốn một môi trường làm việc giống với 
 
 ## Vậy bạn có thể có gì sau khi setup?
 Một cửa sổ terminal ngầu lòi như thế này trên windows.
+![Terminal][terminal-image]
 
 ## Để cài đặt và sử dụng, chúng ta cần:
   - Một máy tính chạy Windows 11/ 10 (prefer Windows 11)
@@ -113,3 +114,7 @@ Một cửa sổ terminal ngầu lòi như thế này trên windows.
   Chúng ta cần thêm vài setting cho VSCode để intergrated terminal trong vscode có thể hiển thị đẹp y như Windows Terminal. Bạn hãy ấn tổ hợp phím *Ctrl + ,* để mở cửa sổ setting của VSCode
   - Chúng ta cần set font cho terminal: hãy tìm kiếm *terminal.integrated.fontFamily* và set giá trị là ***'MesloLGS NF', monospace, PowerlineSymbols*
   - Để có thể set Color Scheme cho VSCode terminal, bạn có thể chỉnh sửa các attributes trong **workbench.colorCustomizations**, có sẵn rất nhiều Color Scheme ở [đây](https://glitchbone.github.io/vscode-base16-term/#/harmonic-dark), chọn cái mà mình thích và  triển thôi.
+
+
+
+[terminal-image]: images/terminal.jpg
