@@ -117,4 +117,4 @@ Một cửa sổ terminal ngầu lòi như thế này trên windows.
 
 
 
-[terminal-image]: images/terminal.jpg
+[terminal-image]: https://github.com/quangtm210395/wsl2-setup-with-windows-terminal/blob/master/images/terminal.png
